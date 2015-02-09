@@ -1,0 +1,11 @@
+.route .info {
+  height: 140px;
+  padding: 5px 5px 5px 25px;
+}
+.route .info p.extra {
+  float: left;
+  height: 55px;
+  overflow: hidden;
+  display: block;
+}
+/*# sourceMappingURL=bootstrap.css.map */
