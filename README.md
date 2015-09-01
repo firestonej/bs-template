@@ -1,3 +1,5 @@
+(No longer used in favor of Susy/Breakpoint. See the susy-template repo.)
+
 This is just a simple repo containing the basic stuff I like to have on hand for a new RWD prototype.
 
 To get started is pretty easy:
